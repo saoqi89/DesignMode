@@ -140,9 +140,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="AbstractFactory.cpp" />
+    <ClCompile Include="BuilderPattern.cpp" />
     <ClCompile Include="FactoryPattern.cpp" />
+    <ClCompile Include="ProxyPattern.cpp" />
     <ClCompile Include="SimpleFactoryPattern.cpp" />
     <ClCompile Include="SingletonPattern.cpp" />
+    <ClCompile Include="Test.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
