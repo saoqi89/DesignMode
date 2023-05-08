@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 ﻿  SingletonPattern.cpp
 E:\Project\C++\Source\DesignMode\DesignMode\SingletonPattern.cpp(127,1): warning C4326: “main”的返回类型应为“int”而非“void”
   DesignMode.vcxproj -> E:\Project\C++\Source\DesignMode\Debug\DesignMode.exe
+=======
+﻿  源.cpp
+  DesignMode.vcxproj -> E:\Project\Git\DesignMode\DesignMode\Debug\DesignMode.exe
+>>>>>>> ca4495876d162e7bd9e68ab73713665b33b1d38e

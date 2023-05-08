@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 PlatformToolSet=v142:VCToolArchitecture=Native32Bit:VCToolsVersion=14.29.30133:TargetPlatformVersion=10.0.19041.0:
 Debug|Win32|E:\Project\C++\Source\DesignMode\|
+=======
+PlatformToolSet=v142:VCToolArchitecture=Native32Bit:VCToolsVersion=14.29.30133:TargetPlatformVersion=10.0.19041.0:
+Debug|Win32|E:\Project\Git\DesignMode\DesignMode\|
+>>>>>>> ca4495876d162e7bd9e68ab73713665b33b1d38e
